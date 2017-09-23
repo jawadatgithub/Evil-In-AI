@@ -18,7 +18,7 @@ The only well-known Evil source is the devil (our creator declared the devil as 
 Whispering is devil method of attack, if human followed the whisper it will lead to evil. and gradually human Evil grow...
 
 ### Since AI is human creation, where the evil in AI will come from?!
-Directly from us and indirectly by following the devil. so all crimes committed by Evil AI bounded to AI architect/designer/unethical hacker.
+Directly from us and indirectly by following the devil. So, all crimes committed by Evil AI bounded to AI architect/designer/unethical hacker.
 
 ### Why there is no well-known or well-defined abstract dataset called evil-data?
 Because there is no absolute evil in the universe, unless you want to make a simulation or clone of the devil "AI-Devil" then you could build data model for that based on how well you understand the devil...(I advise sincerely & humbly to stay away from the devil as our creator ordered us)  
