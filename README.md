@@ -22,7 +22,7 @@ Based on [DukeZhou][indexEvilModeling] answer:
 
 Example: In Video Games a non-player character (NPC) object holds 'IsEvil' boolean property being set based on some conditions to simulate predefined behaviorally pattern.
 
-There is no well-known or well-defined abstract dataset called evil-data, see [MetaEvil][indexMetaEvil].
+There is no well-known or well-defined abstract dataset called evil-data, see [MetaEvil][indexMetaEvilDataset].
 
 Bottom-line: In technical context bounded with AI, think of any false/invalid dataset used to train AI as evil because it will create unpredictable behavior with negtaive outcome in most cases .Think of any piece of code that's buggy, malicious or insecure as evil because it can be abused by Evil-AI. (hold off: did you just call 'software bug' Evil? Yes, I did, when Evil-AI detect a bug it will burtuly abuse the bug and try to cause maximum damage possible. I do understand that not all bugs created equal, but the point should be clear).
 
@@ -37,5 +37,6 @@ MIT. See [LICENSE][indexLicense] for details.
 
 [indexMoto]: https://ai.stackexchange.com/questions/4054/how-to-define-or-represent-evil-in-logic
 [indexMetaEvil]: MetaEvil.md
+[indexMetaEvilDataset]: MetaEvil.md#why-there-is-no-well-known-or-well-defined-abstract-dataset-called-evil-data
 [indexEvilModeling]: https://ai.stackexchange.com/a/4055/9685
 [indexLicense]: LICENSE
